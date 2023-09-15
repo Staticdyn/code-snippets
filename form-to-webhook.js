@@ -23,7 +23,7 @@ allForms.forEach((form) => {
       body: JSON.stringify(formData),
     });
 
-    // uncomment the code below to see the response from the webhook
+    // uncomment the code below to see the response from the webhook (if nessesary)
     //   .then((response) => response.json())
     //   .then((data) => {
     //     console.log("Success:", formData);
